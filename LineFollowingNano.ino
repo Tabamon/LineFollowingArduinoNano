@@ -1,4 +1,4 @@
-//Line following robot code Arduino UNO
+//Line following robot code Arduino Nano
 
 #include <Servo.h>
 #define defaultSpeed 9
